@@ -1,3 +1,4 @@
 Storage/Sessions
 Public/Assets/img/pokemon
 Classes/Pokemon/Mew
+Classes/Move/__*
